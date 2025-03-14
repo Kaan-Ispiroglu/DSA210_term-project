@@ -19,6 +19,18 @@ Understanding the impact of geography on living standards can provide valuable i
 
 ---
 
+## **Hypothesis**
+
+### **Null Hypothesis (H₀):**
+There is no significant relationship between geographical properties (e.g., climate, elevation, proximity to water bodies) and a country's living standards. The two variables are independent of each other.
+
+### **Alternative Hypothesis (Hₐ):**
+Geographical properties significantly impact living standards, meaning that factors such as climate, elevation, and access to natural resources contribute to a higher or lower quality of life.
+
+Through statistical testing, we aim to determine whether we can reject the null hypothesis in favor of the alternative hypothesis or if there is insufficient evidence to establish a relationship.
+
+---
+
 ## **Methodology**
 This project will follow a structured data analysis approach:
 
@@ -76,8 +88,6 @@ For this project, I will use the following tools and libraries:
 - **Pandas**: Data manipulation and preprocessing.
 - **Matplotlib & Seaborn**: Data visualization.
 - **Scikit-learn**: Feature engineering and machine learning models (if applicable).
-- **GeoPandas & Folium**: Geospatial data analysis and mapping.
-- **SciPy**: Statistical analysis and hypothesis testing.
 
 ---
 
