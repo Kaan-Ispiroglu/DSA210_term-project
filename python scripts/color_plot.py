@@ -26,6 +26,5 @@ def plot_qol_on_map(df, lat_col='latitude', lon_col='longitude', qol_col='Qualit
     plt.tight_layout()
     plt.show()
 
-# Example usage:
-# df = pd.read_csv('your_data.csv')
+
 plot_qol_on_map(df)
