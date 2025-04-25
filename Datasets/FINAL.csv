@@ -1,0 +1,104 @@
+Country                 , coastline_wf, coastline_wri, sub-region                     , latitude  , longitude  , Quality of Life Value, Quality of Life Category, Elevation (m), Elevation (ft), Temperature (°C)
+Albania                 ,362.0,         649.0, Southern Europe                ,41.153332,20.168331,104.16, 'Low'                   ,708.0,2323,12.44
+Algeria                 ,998.0,        1557.0, Northern Africa                ,28.033886,1.659626,98.83, 'Very Low'              ,800.0,2625,23.6
+Argentina               ,4989.0,        8397.0, Latin America and the Caribbean,-38.416097,-63.616672,115.06, 'Low'                   ,595.0,1952,16.3
+Armenia                 ,0.0,           0.0, Western Asia                   ,40.069099,45.038189,116.56, 'Low'                   ,1792.0,5879,7.82
+Australia               ,25760.0,       66530.0, Australia and New Zealand      ,-25.274398,133.775136,190.69, 'Very High'             ,330.0,1083,22.05
+Austria                 ,0.0,           0.0, Western Europe                 ,47.516231,14.550072,192.07, 'Very High'             ,910.0,2986,7.44
+Azerbaijan              ,0.0,         871.0, Western Asia                   ,40.143105,47.576927,113.51, 'Low'                   ,384.0,1260,12.96
+Bangladesh              ,580.0,        3306.0, Southern Asia                  ,23.684994,90.356331,74.51, 'Very Low'              ,85.0,279,25.71
+Belarus                 ,0.0,           0.0, Eastern Europe                 ,53.709807,27.953389,127.48, 'Moderate'              ,160.0,525,7.45
+Belgium                 ,66.5,          76.0, Western Europe                 ,50.503887,4.469936,168.52, 'Very High'             ,181.0,594,10.67
+Botswana                ,0.0,           0.0, Sub-Saharan Africa             ,-22.328474,24.684866,36.55, 'Very Low'              ,1013.0,3323,22.09
+Brazil                  ,7491.0,       33379.0, Latin America and the Caribbean,-14.235004,-51.92528,115.99, 'Low'                   ,320.0,1050,25.44
+Bulgaria                ,354.0,         457.0, Eastern Europe                 ,42.733883,25.48583,144.49, 'Moderate'              ,472.0,1549,11.35
+Cambodia                ,443.0,        1127.0, South-eastern Asia             ,12.565679,104.990963,78.92, 'Very Low'              ,126.0,413,27.41
+Canada                  ,202080.0,      265523.0, Northern America               ,56.130366,-106.346771,164.54, 'Very High'             ,487.0,1598,-4.03
+Chile                   ,6435.0,       78563.0, Latin America and the Caribbean,-35.675147,-71.542969,106.49, 'Low'                   ,1871.0,6138,9.39
+China                   ,14500.0,       30017.0, Eastern Asia                   ,35.86166,104.195397,120.52, 'Moderate'              ,1840.0,6037,7.59
+Colombia                ,3208.0,        5875.0, Latin America and the Caribbean,4.570868,-74.297333,107.9, 'Low'                   ,593.0,1946,25.0
+Costa Rica              ,1290.0,        2069.0, Latin America and the Caribbean,9.748917,-83.753428,129.35, 'Moderate'              ,746.0,2448,24.83
+Croatia                 ,5835.0,        5664.0, Southern Europe                ,45.1,15.2,176.02, 'Very High'             ,331.0,1086,11.96
+Cyprus                  ,648.0,         671.0, Western Asia                   ,35.126413,33.429859,158.84, 'High'                  ,91.0,299,20.01
+Czech Republic          ,0.0,           0.0, Eastern Europe                 ,49.817492,15.472962,174.21, 'Very High'             ,430.0,1411,8.6
+Denmark                 ,7314.0,        5316.0, Northern Europe                ,56.26392,9.501785,208.65, 'Very High'             ,34.0,112,8.9
+Dominican Republic      ,1288.0,        1612.0, Latin America and the Caribbean,18.735693,-70.162651,89.09, 'Very Low'              ,424.0,1391,24.55
+Ecuador                 ,2237.0,        4597.0, Latin America and the Caribbean,-1.831239,-78.183406,125.58, 'Moderate'              ,1117.0,3665,21.43
+Egypt                   ,2450.0,        5898.0, Northern Africa                ,26.820553,30.802498,85.41, 'Very Low'              ,321.0,1053,23.14
+El Salvador             ,307.0,         756.0, Latin America and the Caribbean,13.794185,-88.89653,93.05, 'Very Low'              ,442.0,1450,25.23
+Estonia                 ,3794.0,        2956.0, Northern Europe                ,58.595272,25.013607,185.1, 'Very High'             ,61.0,200,6.34
+Ethiopia                ,0.0,           0.0, Sub-Saharan Africa             ,9.145,40.489673,48.88, 'Very Low'              ,1330.0,4364,23.36
+Finland                 ,1250.0,       31119.0, Northern Europe                ,61.92411,25.748151,203.06, 'Very High'             ,164.0,538,2.46
+France                  ,3427.0,              , Western Europe                 ,46.227638,2.213749,165.08, 'Very High'             ,375.0,1230,11.65
+Georgia                 ,310.0,         376.0, Western Asia                   ,42.315407,43.356892,125.48, 'Moderate'              ,1432.0,4698,9.01
+Germany                 ,2389.0,        3624.0, Western Europe                 ,51.165691,10.451526,189.75, 'Very High'             ,263.0,863,9.59
+Ghana                   ,539.0,         758.0, Sub-Saharan Africa             ,7.946527,-1.023194,17.47, 'Very Low'              ,190.0,623,27.66
+Greece                  ,13676.0,       15147.0, Southern Europe                ,39.074208,21.824312,136.83, 'Moderate'              ,498.0,1634,13.17
+Guatemala               ,400.0,         445.0, Latin America and the Caribbean,15.783471,-90.230759,107.92, 'Low'                   ,759.0,2490,23.65
+Hungary                 ,0.0,           0.0, Eastern Europe                 ,47.162494,19.503304,143.26, 'Moderate'              ,143.0,469,11.5
+Iceland                 ,4970.0,        8506.0, Northern Europe                ,64.963051,-19.020835,202.04, 'Very High'             ,557.0,1827,1.85
+India                   ,7000.0,       17181.0, Southern Asia                  ,20.593684,78.96288,124.7, 'Moderate'              ,621.0,2037,24.94
+Indonesia               ,54716.0,       95181.0, South-eastern Asia             ,-0.789275,113.921327,99.98, 'Very Low'              ,367.0,1204,25.96
+Iran                    ,2440.0,        5891.0, Southern Asia                  ,32.427908,53.688046,85.42, 'Very Low'              ,1305.0,4281,18.34
+Iraq                    ,58.0,         105.0, Western Asia                   ,33.223191,43.679291,107.76, 'Low'                   ,312.0,1024,22.95
+Ireland                 ,1448.0,        6437.0, Northern Europe                ,53.41291,-8.24389,166.37, 'Very High'             ,118.0,387,9.73
+Israel                  ,273.0,         205.0, Western Asia                   ,31.046051,34.851612,161.76, 'Very High'             ,508.0,1667,20.99
+Italy                   ,7600.0,        9226.0, Southern Europe                ,41.87194,12.56738,151.06, 'High'                  ,538.0,1765,13.02
+Jamaica                 ,1022.0,         895.0, Latin America and the Caribbean,18.109581,-77.297508,83.92, 'Very Low'              ,340.0,1115,25.91
+Japan                   ,29751.0,       29020.0, Eastern Asia                   ,36.204824,138.252924,184.32, 'Very High'             ,438.0,1437,11.78
+Jordan                  ,26.0,          27.0, Western Asia                   ,30.585164,36.238414,125.01, 'Moderate'              ,812.0,2664,20.05
+Kazakhstan              ,0.0,        4528.0, Central Asia                   ,48.019573,66.923684,105.92, 'Low'                   ,387.0,1270,7.11
+Kenya                   ,536.0,        1586.0, Sub-Saharan Africa             ,-0.023559,37.906193,101.33, 'Low'                   ,762.0,2500,25.08
+Kuwait                  ,499.0,         756.0, Western Asia                   ,29.31166,47.481766,159.55, 'High'                  ,108.0,354,26.31
+Kyrgyzstan              ,0.0,           0.0, Central Asia                   ,41.20438,74.766098,98.32, 'Very Low'              ,2988.0,9803,2.65
+Latvia                  ,531.0,         566.0, Northern Europe                ,56.879635,24.603189,164.22, 'Very High'             ,87.0,285,6.87
+Lebanon                 ,225.0,         294.0, Western Asia                   ,33.854721,35.862285,98.43, 'Very Low'              ,1250.0,4101,15.45
+Libya                   ,1770.0,        2025.0, Northern Africa                ,26.3351,17.228331,134.14, 'Moderate'              ,423.0,1388,22.81
+Lithuania               ,90.0,         258.0, Northern Europe                ,55.169438,23.881275,172.77, 'Very High'             ,110.0,361,7.38
+Luxembourg              ,0.0,           0.0, Western Europe                 ,49.815273,6.129583,224.31, 'Very High'             ,325.0,1066,10.02
+Malaysia                ,4675.0,        9323.0, South-eastern Asia             ,4.210484,101.975766,136.22, 'Moderate'              ,419.0,1375,26.38
+Mexico                  ,9330.0,       23761.0, Latin America and the Caribbean,23.634501,-102.552784,127.02, 'Moderate'              ,1111.0,3645,21.31
+Moldova                 ,0.0,           0.0, Eastern Europe                 ,47.411631,28.369885,122.53, 'Moderate'              ,139.0,456,10.89
+Mongolia                ,0.0,           0.0, Eastern Asia                   ,46.862496,103.846656,62.52, 'Very Low'              ,1580.0,5184,1.07
+Montenegro              ,293.5,              , Southern Europe                ,42.708678,19.37439,147.33, 'High'                  ,1086.0,3563,9.93
+Morocco                 ,1835.0,        2009.0, Northern Africa                ,31.791702,-7.09262,110.96, 'Low'                   ,909.0,2982,18.14
+Netherlands             ,451.0,        1914.0, Western Europe                 ,52.132633,5.291266,211.85, 'Very High'             ,30.0,98,10.49
+New Zealand             ,15134.0,       17209.0, Australia and New Zealand      ,-40.900557,174.885971,186.57, 'Very High'             ,388.0,1273,10.46
+Nigeria                 ,853.0,        3122.0, Sub-Saharan Africa             ,9.081999,8.675277,41.24, 'Very Low'              ,380.0,1247,27.3
+Norway                  ,25148.0,       53199.0, Northern Europe                ,60.472024,8.468946,194.48, 'Very High'             ,460.0,1509,2.21
+Oman                    ,2092.0,        2810.0, Western Asia                   ,21.512583,55.923255,213.42, 'Very High'             ,310.0,1017,27.64
+Pakistan                ,1046.0,        2599.0, Southern Asia                  ,30.375321,69.345116,104.14, 'Low'                   ,900.0,2953,21.38
+Panama                  ,2490.0,        5637.0, Latin America and the Caribbean,8.537981,-80.782127,122.74, 'Moderate'              ,360.0,1181,25.6
+Paraguay                ,0.0,           0.0, Latin America and the Caribbean,-23.442503,-58.443832,109.45, 'Low'                   ,178.0,584,23.92
+Peru                    ,2414.0,        3362.0, Latin America and the Caribbean,-9.189967,-75.015152,85.92, 'Very Low'              ,1555.0,5102,20.07
+Philippines             ,36289.0,       33900.0, South-eastern Asia             ,12.879721,121.774017,96.95, 'Very Low'              ,442.0,1450,26.27
+Poland                  ,491.0,        1032.0, Eastern Europe                 ,51.919438,19.145136,153.6, 'High'                  ,173.0,568,8.78
+Portugal                ,1793.0,        2830.0, Southern Europe                ,39.399872,-8.224454,168.85, 'Very High'             ,372.0,1220,15.85
+Qatar                   ,563.0,         909.0, Western Asia                   ,25.354826,51.183884,192.73, 'Very High'             ,28.0,92,28.02
+Romania                 ,225.0,         696.0, Eastern Europe                 ,45.943161,24.96676,142.14, 'Moderate'              ,414.0,1358,10.18
+Russia                  ,37653.0,      110310.0, Eastern Europe                 ,61.52401,105.318756,113.56, 'Low'                   ,600.0,1969,-3.79
+Rwanda                  ,0.0,           0.0, Sub-Saharan Africa             ,-1.940278,29.873888,0.0, 'Very Low'              ,1598.0,5243,20.03
+Saudi Arabia            ,2640.0,        7572.0, Western Asia                   ,23.885942,45.079162,173.2, 'Very High'             ,665.0,2182,25.94
+Serbia                  ,0.0,              , Southern Europe                ,44.016521,21.005859,123.62, 'Moderate'              ,442.0,1450,11.4
+Singapore               ,193.0,         268.0, South-eastern Asia             ,1.352083,103.819836,157.13, 'High'                  ,15.0,49,27.68
+Slovakia                ,0.0,           0.0, Eastern Europe                 ,48.669026,19.699024,157.96, 'High'                  ,458.0,1503,8.83
+Slovenia                ,46.6,          41.0, Southern Europe                ,46.151241,14.995463,178.94, 'Very High'             ,492.0,1614,9.86
+South Africa            ,2798.0,        3751.0, Sub-Saharan Africa             ,-30.559482,22.937506,155.84, 'High'                  ,1034.0,3392,18.23
+South Korea             ,2413.0,       12478.0, Eastern Asia                   ,35.907757,127.766922,148.74, 'High'                  ,282.0,925,12.22
+Spain                   ,4964.0,        7268.0, Southern Europe                ,40.463667,-3.74922,184.67, 'Very High'             ,660.0,2165,13.07
+Sri Lanka               ,1340.0,        2825.0, Southern Asia                  ,7.873054,80.771797,75.17, 'Very Low'              ,228.0,748,27.25
+Sweden                  ,3218.0,       26384.0, Northern Europe                ,60.128161,18.643501,193.48, 'Very High'             ,320.0,1050,3.23
+Switzerland             ,0.0,           0.0, Western Europe                 ,46.818188,8.227512,204.91, 'Very High'             ,1350.0,4429,6.47
+Tanzania                ,1424.0,        3461.0, Sub-Saharan Africa             ,-6.369028,34.888822,0.0, 'Very Low'              ,1018.0,3340,22.92
+Thailand                ,3219.0,        7066.0, South-eastern Asia             ,15.870032,100.992541,105.37, 'Low'                   ,287.0,942,26.85
+Tunisia                 ,1148.0,        1927.0, Northern Africa                ,33.886917,9.537499,115.44, 'Low'                   ,246.0,807,20.53
+Turkey                  ,7200.0,        8140.0, Western Asia                   ,38.963745,35.243322,130.42, 'Moderate'              ,1141.0,3743,11.66
+Uganda                  ,0.0,           0.0, Sub-Saharan Africa             ,1.373333,32.290275,0.0, 'Very Low'              ,1100.0,3609,23.25
+Ukraine                 ,2782.0,        4953.0, Eastern Europe                 ,48.379433,31.16558,114.78, 'Low'                   ,175.0,574,9.27
+United Arab Emirates    ,1318.0,        2871.0, Western Asia                   ,23.424076,53.847818,176.65, 'Very High'             ,149.0,489,28.17
+United Kingdom          ,12429.0,       19717.0, Northern Europe                ,55.378051,-3.435973,175.2, 'Very High'             ,162.0,531,9.24
+United States           ,19924.0,      133312.0, Northern America               ,37.09024,-95.712891,189.14, 'Very High'             ,760.0,2493,9.46
+Uruguay                 ,660.0,        1096.0, Latin America and the Caribbean,-32.522779,-55.765835,141.6, 'Moderate'              ,109.0,358,17.97
+Uzbekistan              ,0.0,        1707.0, Central Asia                   ,41.377491,64.585262,133.78, 'Moderate'              ,450.0,1476,13.06
+Vietnam                 ,3444.0,       11409.0, South-eastern Asia             ,14.058324,108.277199,97.18, 'Very Low'              ,398.0,1306,24.79
+Zimbabwe                ,0.0,           0.0, Sub-Saharan Africa             ,-19.015438,29.154857,94.2, 'Very Low'              ,961.0,3153,21.9
