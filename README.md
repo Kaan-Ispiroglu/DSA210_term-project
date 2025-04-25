@@ -1,113 +1,114 @@
-# **DSA210 Term Project: Analyzing the Relationship Between Geography and Living Standards**
+# 📊 DSA210 Term Project: **Analyzing the Relationship Between Geography and Living Standards**
 
-## **Project Overview**
-In this project, I aim to explore the relationship between a country's geographical properties and its living standards. I hypothesize that geographical factors such as climate, region, and environmental conditions play a significant role in shaping the quality of life in different countries.
+## 🌍 Project Overview
 
-To test this hypothesis, I will analyze a dataset on global living standards and supplement it with geographical data, including factors such as **average temperature, elevation, proximity to water bodies, and climate classification.** Using data analysis and visualization techniques, I will assess whether there is a measurable correlation between geography and quality of life.
+This project investigates how a country's **geographical characteristics** (such as climate, elevation, and proximity to coastlines) correlate with its **living standards**.
 
-The project will involve **data preprocessing, feature engineering, correlation analysis, and hypothesis testing** to determine which geographical factors have the most influence on living standards.
-
----
-
-## **Motivation**
-Understanding the impact of geography on living standards can provide valuable insights into **economic development, policy-making, and resource allocation.** By leveraging data science techniques, I want to uncover **patterns and trends** that might explain why certain regions consistently perform better in terms of quality of life.
-
-### **Key Motivations**
-- **Personal Interest**: Exploring the intersection of geography, economics, and data science.
-- **Practical Applications**: Identifying geographical factors that influence development can help in urban planning and policymaking.
-- **Academic Learning**: Applying the concepts from the DSA210 course to a real-world dataset and improving my data analysis skills.
+By analyzing multiple datasets, we aim to uncover **patterns and relationships** between geography and indicators of quality of life, contributing to a broader understanding of how environment shapes economic and social well-being.
 
 ---
 
-## **Hypothesis**
+### 🔍 Key Research Questions
 
-### **Null Hypothesis (H₀):**
-There is no significant relationship between geographical properties (e.g., climate, elevation, proximity to water bodies) and a country's living standards. The two variables are independent of each other.
-
-### **Alternative Hypothesis (Hₐ):**
-Geographical properties significantly impact living standards, meaning that factors such as climate, elevation, and access to natural resources contribute to a higher or lower quality of life.
-
-Through statistical testing, we aim to determine whether we can reject the null hypothesis in favor of the alternative hypothesis or if there is insufficient evidence to establish a relationship.
+- Do geographical features significantly impact living standards?
+- Which geographical factors show the strongest correlations with quality of life?
+- Are regions at certain latitudes or elevations advantaged in living standards?
 
 ---
 
-## **Methodology**
-This project will follow a structured data analysis approach:
+## 📌 Hypothesis
 
-### **1. Data Collection & Preprocessing**
-- Load and clean the **Quality of Life dataset** from Kaggle.
-- Collect additional geographical data (e.g., climate, temperature, elevation).
-- Merge datasets to create a unified analysis-ready dataset.
+- **Null Hypothesis (H₀):** Geographical features have no significant relationship with living standards.
+- **Alternative Hypothesis (Hₐ):** Certain geographical features (e.g., temperature, latitude) significantly influence living standards.
 
-### **2. Exploratory Data Analysis (EDA)**
-- Use **visualizations** (heatmaps, scatter plots, box plots) to identify trends.
-- Compute **summary statistics** to understand distributions.
-- Identify potential **outliers** and missing values.
-
-### **3. Feature Engineering**
-- Create new features from geographical data (e.g., temperature ranges, elevation categories).
-- Normalize data for better comparison.
-
-### **4. Correlation & Hypothesis Testing**
-- Apply **correlation matrices** to check relationships between geographical features and living standards.
-- Conduct **statistical tests** (e.g., Pearson’s correlation, regression analysis) to validate findings.
-
-### **5. Visualization & Interpretation**
-- Generate **maps, scatter plots, and regression plots** to present findings.
-- Interpret the results and discuss potential causations.
-
-### **6. Conclusion & Insights**
-- Summarize key takeaways.
-- Discuss **potential limitations** of the dataset and methodology.
-- Propose **future research directions** or policy implications.
+Statistical testing was conducted to determine whether we can reject the null hypothesis.
 
 ---
 
-## **Datasets**
-I will be using the following datasets:
+## 🎯 Objectives
 
-### **1. [Quality of Life for Each Country](https://www.kaggle.com/datasets/ahmedmohamed2003/quality-of-life-for-each-country)**  
-- This is the primary dataset, containing **various indicators of living standards**, such as health, economic prosperity, education, and safety.  
-- I will analyze how these indicators vary across different countries and regions.
-
-### **2. Geographical Data (To be compiled separately)**  
-- I will create a custom dataset with the following geographical features:
-  - **Average annual temperature**
-  - **Elevation above sea level**
-  - **Climate classification (e.g., tropical, temperate, arid)**
-  - **Proximity to coastlines or large water bodies**
-  - **Natural disaster frequency (earthquakes, floods, hurricanes)**  
-- These metrics will be sourced from publicly available datasets (to be listed in detail later).
+- Analyze correlations between geographical metrics and quality of life values.
+- Identify geographical trends affecting well-being.
+- Provide insights for policymakers and researchers interested in geography-driven development factors.
 
 ---
 
-## **Tools & Technologies**
-For this project, I will use the following tools and libraries:
+## 📈 Datasets Used
 
-- **Python**: Main programming language for analysis.
-- **Pandas**: Data manipulation and preprocessing.
-- **Matplotlib & Seaborn**: Data visualization.
-- **Scikit-learn**: Feature engineering and machine learning models (if applicable).
+- **Primary Dataset:** [Quality of Life for Each Country (Kaggle)](https://www.kaggle.com/datasets/ahmedmohamed2003/quality-of-life-for-each-country)
+- **Supplementary Geographical Data:**
+  - Average Annual Temperature
+  - Elevation Data (meters, feet)
+  - Latitude and Longitude
+  - Coastline Length (World Factbook, WRI sources)
 
----
-
-## **Expected Outcomes**
-By the end of this project, I hope to answer the following questions:
-
-1. **Which geographical factors have the strongest correlation with living standards?**
-2. **Is there a measurable impact of climate (temperature, precipitation) on quality of life?**
-3. **Do coastal or higher-elevation regions have a better standard of living?**
-4. **Can a predictive model be built to estimate living standards based on geography?**
-
-These findings could provide insights into **economic planning, resource distribution, and the broader relationship between geography and human well-being.**
+Merging and cleaning operations were performed using custom Python scripts (`merge.py`, `mergeNsort.py`, and `remove.py`).
 
 ---
 
-## **Next Steps**
-- Finalize **geographical dataset sources**.
-- Merge and clean the datasets.
-- Begin **EDA and correlation analysis**.
-- Run **statistical tests and visualizations**.
-- Interpret the results and document findings.
+## 🔧 Tools & Technologies
+
+- **Programming Language:** Python
+- **Data Libraries:** Pandas, NumPy, SciPy
+- **Statistical Analysis:** Pearson Correlation, Permutation Testing
+- **Visualization:** (Plots available in the `plots` directory)
 
 ---
+
+## 📊 Descriptive Statistics
+
+| Metric                | Mean     | Std Dev  | Min     | Max       |
+| --------------------- | -------- | -------- | ------- | --------- |
+| coastline\_wf         | 6226.33  | 21380.21 | 0.00    | 202080.00 |
+| coastline\_wri        | 12908.90 | 34082.79 | 0.00    | 265523.00 |
+| latitude              | 27.11    | 25.59    | -40.90  | 64.96     |
+| longitude             | 22.34    | 58.20    | -106.35 | 174.89    |
+| Quality of Life Value | 131.68   | 48.45    | 0.00    | 224.31    |
+| Elevation (m)         | 587.46   | 505.31   | 15.00   | 2988.00   |
+| Elevation (ft)        | 1927.35  | 1657.83  | 49.00   | 9803.00   |
+| Temperature (°C)      | 16.14    | 8.33     | -4.03   | 28.17     |
+
+---
+
+## 📊 Correlation Analysis Summary
+
+| Variable         | Pearson r  | Traditional p-value | Permutation p-value |
+| ---------------- | ---------- | ------------------- | ------------------- |
+| coastline\_wf    | 0.106      | 0.2850              | 0.2783              |
+| coastline\_wri   | 0.136      | 0.1764              | 0.1755              |
+| Elevation (m)    | **-0.362** | **0.0002**          | **0.0001**          |
+| Temperature (°C) | **-0.440** | **0.0000**          | **0.0000**          |
+| latitude         | **0.448**  | **0.0000**          | **0.0000**          |
+| longitude        | -0.014     | 0.8868              | 0.8926              |
+
+### 📊 Key Observations
+
+- 🔥 **Higher temperatures are associated with lower living standards.**
+- 🌄 **Higher elevations negatively correlate with living standards.**
+- 🌎 **Latitude is positively correlated with quality of life**, suggesting regions farther from the equator may have better living standards.
+- 🌊 **Coastline lengths show no significant relationship with living standards.**
+- 🔄 **Longitude does not significantly affect living standards.**
+
+> **Important Note:** These analyses alone are not sufficient to definitively prove a causal relationship, even when slight correlations are observed. Preliminary results suggest that **subregion** (e.g., continental or regional divisions) may have a stronger association with living standards. Therefore, **further research** will continue to focus on analyzing subregional patterns in greater detail.
+
+---
+
+## 📅 Conclusion
+
+- There is **very limited evidence** that geographical features such as **temperature, elevation, and latitude** are related to living standards.
+- **Longitude and coastline proximity** appear to have little to no influence based on the data analyzed.
+- Overall, geography alone shows only **slight associations** with quality of life, and stronger relations are suspected at the **subregional** level.
+
+---
+
+## 🔍 Next Steps
+
+- Deeper investigation into **regional patterns** (e.g., continent-level analysis).
+- Explore **multivariate models** combining geography with economic and social factors.
+- Expand datasets to include more refined geographical variables like precipitation, land use, and natural disaster risk.
+- Focus future analysis on the influence of **subregions** on living standards.
+
+---
+
+> **Note:** Visualizations supporting this analysis (scatter plots, regression plots) are available in the **`plots/`** directory.
+
