@@ -37,10 +37,10 @@ Statistical testing was conducted to determine whether we can reject the null hy
 
 - **Primary Dataset:** [Quality of Life for Each Country (Kaggle)](https://www.kaggle.com/datasets/ahmedmohamed2003/quality-of-life-for-each-country)
 - **Supplementary Geographical Data:**
-  - Average Annual Temperature
-  - Elevation Data (meters, feet)
-  - Latitude and Longitude
-  - Coastline Length (World Factbook, WRI sources)
+  - [Average Annual Temperature](https://en.wikipedia.org/wiki/List_of_countries_by_average_yearly_temperature)
+  - [Elevation Data (meters, feet)](https://en.wikipedia.org/wiki/List_of_countries_by_average_elevation)
+  - [Latitude and Longitude](https://developers.google.com/public-data/docs/canonical/countries_csv)
+  - [Coastline Length](https://github.com/LSYS/country-coastline-distance/blob/master/coastlines.csv) 
 
 Merging and cleaning operations were performed using custom Python scripts (`merge.py`, `mergeNsort.py`, and `remove.py`).
 
